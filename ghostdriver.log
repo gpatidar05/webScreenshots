@@ -1,0 +1,118 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2017-04-20T21:25:41.836Z] GhostDriver - Main - running on port 43616
+[INFO  - 2017-04-20T21:25:42.012Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0","webSecurityEnabled":false}
+[INFO  - 2017-04-20T21:25:42.012Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.customHeaders:  - {}
+[INFO  - 2017-04-20T21:25:42.012Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0"}
+[INFO  - 2017-04-20T21:25:42.012Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e8321250-260f-11e7-b6e8-1ded5b0ee460
+[ERROR - 2017-04-20T21:25:48.049Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'undefined' is not a function (evaluating 'rb.on.bind(rb)')
+[ERROR - 2017-04-20T21:25:48.049Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+  (anonymous function) (https://connect.facebook.net/en_US/fbevents.js:1)
+[ERROR - 2017-04-20T21:25:48.413Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:48.413Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:48.413Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeErro[INFO  - 2017-04-20T21:28:39.156Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:33:39.255Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:38:39.336Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:43:39.429Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:49:11.513Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:53:46.114Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:58:45.414Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:03:45.513Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:08:45.613Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:13:46.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:18:46.088Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:23:46.120Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:28:46.218Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:33:46.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:38:46.432Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:43:46.489Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-22T16:00:09.827Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-22T16:05:10.001Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:50:06.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T21:55:04.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:00:04.407Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:05:04.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:10:04.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:15:06.630Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:20:06.217Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:25:05.101Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:30:05.199Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:35:05.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:40:05.398Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-20T22:45:05.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-22T16:01:28.831Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-22T16:05:03.239Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-04-22T16:04:54.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+-20T21:25:50.040Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:50.177Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:50.177Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:50.685Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:50.685Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:50.737Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:50.737Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:50.951Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:50.951Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.057Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.057Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.151Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.151Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.392Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.392Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.609Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.609Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.776Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.776Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:51.970Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:51.970Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:52.042Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:52.042Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:52.148Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:52.148Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:25:55.421Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'null' is not an object (evaluating 'prog.style')
+[ERROR - 2017-04-20T21:25:55.422Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  imgLoaded (http://dev.rvngo.com/:462)
+[ERROR - 2017-04-20T21:26:18.726Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'undefined' is not a function (evaluating 'jQuery('[data-toggle="tooltip"]').tooltip()')
+[ERROR - 2017-04-20T21:26:18.726Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  (anonymous function) (http://www.newandtidy.com/assets/application-946c4aa40baabb0617675d326e15d63fe6a7584df7c28a2b82810d486d026674.js:14)
+  (anonymous function) (http://www.newandtidy.com/assets/application-946c4aa40baabb0617675d326e15d63fe6a7584df7c28a2b82810d486d026674.js:12)
+  (anonymous function) (http://www.newandtidy.com/assets/application-946c4aa40baabb0617675d326e15d63fe6a7584df7c28a2b82810d486d026674.js:12)
+  (anonymous function) (http://www.newandtidy.com/assets/application-946c4aa40baabb0617675d326e15d63fe6a7584df7c28a2b82810d486d026674.js:12)
+  s (http://www.newandtidy.com/assets/application-946c4aa40baabb0617675d326e15d63fe6a7584df7c28a2b82810d486d026674.js:11)
+[ERROR - 2017-04-20T21:26:18.792Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - msg: TypeError: 'undefined' is not a function (evaluating '$("#slider").responsiveSlides({
+        auto: true,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        pager: true,
+      })')
+[ERROR - 2017-04-20T21:26:18.792Z] Session [e8321250-260f-11e7-b6e8-1ded5b0ee460] - page.onError - stack:
+  (anonymous function) (http://www.newandtidy.com/:109)
+  (anonymous function) (http://www.newandtidy.com/assets/jquery.min-e627c5d3c7944aead0d05873c8965c308bb62a65c898de35d42d88361233c8df.js:2)
+  (anonymous function) (http://www.newandtidy.com/assets/jquery.min-e627c5d3c7944aead0d05873c8965c308bb62a65c898de35d42d88361233c8df.js:2)
+  (anonymous function) (http://www.newandtidy.com/assets/jquery.min-e627c5d3c7944aead0d05873c8965c308bb62a65c898de35d42d88361233c8df.js:2)
+  s (http://www.newandtidy.com/assets/jquery.min-e627c5d3c7944aead0d05873c8965c308bb62a65c898de35d42d88361233c8df.js:1)

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block head_title %}Screenshots{% endblock %}</title>
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
+  </head>
+  <body>
+    <div class="row">
+      {% for website in websites%}
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="/static/img/{{website.screenshot}}.png">
+              <img src="/static/img/{{website.screenshot}}.png" alt="Lights" style="width:100%;height:200px">
+              <div class="caption text-center">
+                <p>{{website.link}}</p>
+              </div>
+            </a>
+          </div>
+        </div>
+      {%endfor%}
+    </div>
+  </body>
+</html>
